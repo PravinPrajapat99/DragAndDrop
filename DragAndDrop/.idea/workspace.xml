@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08a2cfaa-cd9f-4102-8d1e-7e68cbfce08a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/Runnner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/DragAndDropService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/DragAndDropSteapDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/DragAndDrop.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/src/test/java/hellocucumber/RunCucumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/src/test/java/hellocucumber/StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellocucumber/src/test/resources/hellocucumber/example.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/DateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/FileProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/PrintRepitition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/ReadingCellValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/newfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Assesment_Week1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/BookManagement/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/BookManagement/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/BookManagement/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/BookManagement/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/BookManagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/Streams/Streams_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/example/WordRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veeva/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pQJxIRh9N1mAAVQ516af64RHRu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Scenario: pick and drop image to trash box.executor": "Run",
+    "JUnit.Runner.executor": "Run",
+    "JUnit.Runnner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.DragAndDrop [clean].executor": "Run",
+    "Maven.DragAndDrop [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Runnner">
+    <configuration name="Scenario: pick and drop image to trash box" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/DragAndDrop.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="DragAndDrop" />
+      <option name="NAME_FILTER" value="^pick and drop image to trash box$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^pick and drop image to trash box$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: pick and drop image to trash box" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DragAndDrop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runnner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DragAndDrop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runnner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runnner" />
+        <item itemvalue="Cucumber Java.Scenario: pick and drop image to trash box" />
+        <item itemvalue="JUnit.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a2cfaa-cd9f-4102-8d1e-7e68cbfce08a" name="Changes" comment="" />
+      <created>1732692613899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732692613899</updated>
+    </task>
+    <servers />
+  </component>
+</project>
