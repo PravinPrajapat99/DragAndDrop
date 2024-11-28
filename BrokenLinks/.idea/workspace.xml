@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af202582-cb4b-4318-a9dc-c4829af0c440" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CustomUtility/LinkStatusChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CustomUtility/WaitFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CustomUtility/WaitFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/driver/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/DriverClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CustomUtility/LinkStatusChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CustomUtility/LinkStatusChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/service/BrokenLinkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/BrokenLinkService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/FindBrokenLinkStepDefination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/FindBrokenLinkStepDefination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/findinBrokenlinks.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/findinBrokenlinks.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DragAndDrop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DragAndDrop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hellocucumber/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellocucumber/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hellocucumber/src/test/java/hellocucumber/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hellocucumber/src/test/java/hellocucumber/StepDefinitions.java" afterDir="false" />
