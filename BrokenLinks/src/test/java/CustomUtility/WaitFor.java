@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.List;
 
 public class WaitFor {
     private static WebDriver driver= DriverClass.getDriver("chrome");
@@ -16,6 +17,9 @@ public class WaitFor {
 
     public static WebElement visibility(By locator){
         return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+    }
+    public static List<WebElement> visibilityList(By locator){
+        return wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(locator));
     }
 
     public static void clickable(By locator){
